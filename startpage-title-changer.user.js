@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        startpage-title-changer
 // @description Change the page title of Startpage search results to include the search terms.
-// @description:ja Startpageの検索結果ページのタイトルを、検索用語を含むように変更します。
+// @description:ja Startpageの検索結果ページのタイトルを、検索語句を含むように変更します。
 // @version     1.0.0
 // @author      KOTO28
 // @namespace   https://github.com/KOTO28
